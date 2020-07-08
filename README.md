@@ -1,44 +1,77 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    Project: Recreating UI Discord
+    <h3 align="center">Clone (partial) for study purposes</h3>
+    <h3 align="center">Deployed <a href="#">here</a>.</h3>
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-### `yarn start`
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🚀 Technologies
 
-### `yarn test`
+This project was developed with the following technologies:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org)
+- [Styled Components](https://github.com/styled-components/vscode-styled-components)
+- [TypeScript](https://www.typescriptlang.org/)
 
-### `yarn build`
+## 💻 Project
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The partial clone of the Discord interface was made for the purpose of learning.
+<h4>Deployed <a href="#">here</a>.</h4>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<h1 align="center">
+    <img alt="Clone-discord" title="Clone-discord" src="src/assets/clone-discord.svg" width="620px" />
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔖 Layout
 
-### `yarn eject`
+You can view or layout the project in the format through [this link](https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=0%3A1). Remembering that you will need to have a [Figma](http://figma.com/) account.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :information_source: How to use
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To clone and run this application, you'll need [Git](https://git-scm.com) + e [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+From your command line:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Install API 
+```bash
+# Clone this repository
+$ git clone https://github.com/Xande098/clone-discord.git
+# Go into the repository
+$ cd clone-discord
+# Run
+$ yarn start
+# access http://localhost:3000
+```
 
-## Learn More
+## 🤔 How to contribute
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-  Make a fork;
+-  Create a branch with your feature: `git checkout -b my-feature`;
+-  Commit changes: `git commit -m 'feat: My new feature'`;
+-  Make a push to your branch: `git push origin my-feature`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+After merging your receipt request to done, you can delete a branch from yours.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+
+---
+
+Made with ♥ by Alexandre Sobota :wave: [Get in touch!](https://www.linkedin.com/in/alexandre-sobota-95839ba2)
