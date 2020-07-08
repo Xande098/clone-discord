@@ -4,6 +4,10 @@
     <h3 align="center">Deployed <a href="https://clone-discord098.netlify.app/">here</a>.</h3>
 </h1>
 
+<h3 align="center">
+  <a href="https://app.netlify.com/sites/clone-discord098/deploys"><img src = "https://api.netlify.com/api/v1/badges/a279f920-c2f8-4a04-bb03-c79ea1835711/deploy-status" alt ="Netlify Status" /></a>
+</h3>
+
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +20,7 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000" />
 </p>
 
 <br>
@@ -40,7 +44,7 @@ The partial clone of the Discord interface was made for the purpose of learning.
 
 ## 🔖 Layout
 
-You can view or layout the project in the format through [this link](https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=0%3A1). Remembering that you will need to have a [Figma](http://figma.com/) account. (https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=1%3A7)
+You can view or layout the project in the format through [this link](https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=0%3A1). Remembering that you will need to have a [Figma](http://figma.com/) account.
 
 ## :information_source: How to use
 
