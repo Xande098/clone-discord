@@ -1,7 +1,7 @@
 <h1 align="center">
     Project: Recreating UI Discord
     <h3 align="center">Clone (partial) for study purposes</h3>
-    <h3 align="center">Deployed <a href="#">here</a>.</h3>
+    <h3 align="center">Deployed <a href="https://clone-discord098.netlify.app/">here</a>.</h3>
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 The partial clone of the Discord interface was made for the purpose of learning.
-<h4>Deployed <a href="#">here</a>.</h4>
+<h4>Deployed <a href="https://clone-discord098.netlify.app/">here</a>.</h4>
 
 <h1 align="center">
     <img alt="Clone-discord" title="Clone-discord" src="src/assets/clone-discord.svg" width="620px" />
@@ -40,11 +40,11 @@ The partial clone of the Discord interface was made for the purpose of learning.
 
 ## 🔖 Layout
 
-You can view or layout the project in the format through [this link](https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=0%3A1). Remembering that you will need to have a [Figma](http://figma.com/) account.
+You can view or layout the project in the format through [this link](https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=0%3A1). Remembering that you will need to have a [Figma](http://figma.com/) account. (https://www.figma.com/file/ayVJ4uAsYvZ7DRfMEI3FSg/Clone-Discord?node-id=1%3A7)
 
 ## :information_source: How to use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) + e [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com) + [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) installed on your computer.
 
 From your command line:
 
